@@ -1,2 +1,7 @@
-hello test
-zhouxiaolong
+添加文件到仓库：git add fileName.txt
+提交文件到仓库：git commit -m "wrote a readme file"    (-m 后面输入的事本次提交的说明，可以输入任何内容）
+
+添加文件到Git仓库，分两步：
+
+使用命令git add <file>，注意，可反复多次使用，添加多个文件；
+使用命令git commit -m <message>，完成。
